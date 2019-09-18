@@ -1,0 +1,9 @@
+oppdaget_atomvapen = 5;
+t = 1000;
+T1 = t;
+T2 = t;
+T3 = t;
+T4 = t;
+wish_to_be_world_police = 1;
+nedrustningsavtale_rodnisser = 615;
+nedrustningsavtale_blanisser = 282;
